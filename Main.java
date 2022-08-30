@@ -1,5 +1,4 @@
-public class Start {
-
+public class Main {
     public static void main(String[] args) {
 
         // contribute- сумма пополнения.
@@ -18,6 +17,5 @@ public class Start {
         } else {
             System.out.println("Счет: " + (wallet + contribute));
         }
-
     }
 }
